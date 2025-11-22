@@ -6,6 +6,7 @@
 ## Kelas : TRPL 2B
 
 1. Kustomisasi Marker:Ubah ikon marker agar berbeda-beda tergantung jenis catatan (misal:Toko,Rumah,Kantor).
+   
   A. Input jenis catatan melalui dialog
 
   <img width="952" height="92" alt="image" src="https://github.com/user-attachments/assets/d90f31a2-e171-4579-9357-8424f089b4d7" />
@@ -35,6 +36,7 @@
   dengan mudah.
 
 2. Hapus Data:Tambahkan fitur untuk menghapus marker yang sudah dibuat.
+
   A. Marker bisa ditekan
 
   <img width="990" height="46" alt="image" src="https://github.com/user-attachments/assets/ec814b67-8655-48dd-a787-a2fc0e6eaf23" />
@@ -47,6 +49,7 @@
   diperbarui. Fitur ini membuat pengguna dapat mengelola data dengan lebih fleksibel.
 
 3. Simpan Data: (Opsional) Gunakan SharedPreferences atau Hive agar data tidak hilang saat aplikasi ditutup.
+
    A. Menyimpan catatan ke SharedPreferences
 
    <img width="992" height="322" alt="image" src="https://github.com/user-attachments/assets/dee3da82-382a-43aa-b855-7a82949b3aa6" />
